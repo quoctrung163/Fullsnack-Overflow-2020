@@ -1,0 +1,7 @@
+title spa_post
+
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+
+note over server:
+server process and display data
+end note
